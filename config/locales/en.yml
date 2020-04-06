@@ -260,11 +260,11 @@ en:
     search:
       start: Start searching...
   landing:
-    about: "%{href} is a simple front-end for your BigBlueButton open-source web conferencing server. You can create your own rooms to host sessions, or join others using a short and convenient link."
-    welcome: Welcome to BigBlueButton.
+    about: "%{href} is a simple front-end for your SILA's BigBlueButton open-source web conferencing server. You can create your own rooms to host sessions, or join others using a short and convenient link."
+    welcome: Welcome to SILA's BigBlueButton.
     video: Watch our tutorial on using Greenlight
-    upgrade: Show me how to upgrade to 2.0!
-    version: We've released a new version of Greenlight, but your database isn't compatible.
+    upgrade: 
+    version: 
   language_default: Default (browser language)
   ldap_error: Unable to connect to the LDAP server. Please check your LDAP configuration in the env file and ensure your server is running.
   login: Sign in
@@ -407,7 +407,7 @@ en:
     google: Google
     office365: Office 365
     twitter: Twitter
-    ldap: LDAP
+    ldap: SILA/WBTA Login
   recaptcha:
     errors:
       recaptcha_unreachable: Oops, we failed to validate your reCAPTCHA response. Please try again.
